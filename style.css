@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background: rgb(233, 188, 73);
+}
+.cont{
+    width: 250px;
+    height: 200px;
+    border: 5px solid #000;
+    text-align: center;
+}
+.b1{
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 64px;
+}
+#p1{
+    font-size: 32px;
+}
+#p1:hover{
+    font-weight: 300;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    
+}
